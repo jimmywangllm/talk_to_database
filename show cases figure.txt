@@ -1,0 +1,11 @@
+https://sharpdata.netcore.io/chinook/invoices
+
+How is the total invoice amount distributed across bill country?
+
+What is the maximum total invoice amount for each billing city?
+
+What is the daily trend of the total invoice amounts for the first quarter of 2024?
+
+What are the top 5 longest tracks by milliseconds?
+
+Which 5 coutries has the most customers?
